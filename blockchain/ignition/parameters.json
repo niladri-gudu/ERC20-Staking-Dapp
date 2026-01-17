@@ -1,0 +1,6 @@
+{
+  "StakingContractModule": {
+    "stakingToken": "0xae183b1Cf5dcB73aE27F1D28b51F31AB7FC074d7",
+    "rewardToken": "0xAd9D16aE58699256CcA8C254Bfc0B3A4861E3173"
+  }
+}
